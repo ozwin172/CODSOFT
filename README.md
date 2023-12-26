@@ -1,2 +1,2 @@
 # CODSOFT
-Codsoft Data Science internship tasks are uploaded.
+Codsoft Data Science internship tasks .
